@@ -20,3 +20,6 @@
 20. less fileName - to read the complete file at once
 21. diff fileName1 fileName2  - to check the diff between files
 22. cp fileName destination - copy file from current to destination
+23. mv currentFileName newFileName - rename files
+24. cat fielName | grep contentName - read the file and filter out content from file.
+25. cat fielName | grep -i contentName - read the file and filter out content from file in case insensitive way
